@@ -18,7 +18,7 @@
             <article class="joe_detail__article animated fadeIn">
               <h3>个人声明</h3>
               <div class="link-requirement">
-                <joe-message type="info" content='<em style="font-style:normal;">< 温馨提示 ></em><br>如下是本人的友情链接'></joe-message>
+                <joe-message type="info" content='<em style="font-style:normal;font-weight:bold">< 温馨提示 ></em><br>欢迎各位同友成为本站友人，互友!!!!'></joe-message>
               </div>
             </article>
             <article class="joe_detail__article animated fadeIn">
